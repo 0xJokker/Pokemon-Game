@@ -2,6 +2,11 @@
 
 Este Proyecto es un Juego de Pokemon hecho en Python. En el Juego, el usuario puede escoger entre cinco personajes populares de Pokemon: Pikachu, Bulbasaur, Squirtle, Scyther y Charmander. El usuario solo puede seleccionar dos personajes para pelear entre ellos. Una vez que el usuario ha seleccionado los personajes, la pelea comenzará automáticamente y se mostrará el resultado de la batalla. El resultado indicará qué personaje ha ganado la pelea.
 
+
+![Pokemones](https://github.com/JokerC0/Pokemon/assets/129913584/c16e1b93-aa33-49ee-923b-3729fbd1629b)
+
+
+
 Después de la pelea, el usuario tendrá la opción de seguir jugando o salir del juego. Si el usuario elige seguir jugando, el proceso de selección de personajes se repetirá, lo que le permitirá al usuario continuar con la diversión de jugar. Si el usuario decide salir del juego, el juego se cerrará.
 
 ## Game🎮
