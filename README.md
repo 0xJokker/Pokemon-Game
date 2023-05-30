@@ -15,6 +15,7 @@ Después de la pelea, el usuario tendrá la opción de seguir jugando o salir de
 Para su Creacion, se necesito utilizar la programación orientada a objetos y crear la clase Pokemon como elemento de inicializacion y definicion del ganador de la batalla. También esta incluido una función que maneje la selección de personajes y otra que controle la pelea y determine el resultado de la batalla. Además, esta incorporada la función que permite al usuario decidir si quiere seguir jugando o salir del juego.
 
 
+![GAME](https://github.com/JokerC0/Pokemon-Game/assets/129913584/434dcd09-04ea-4abb-b44a-439f6a009191)
 
 
 
