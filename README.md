@@ -30,8 +30,3 @@ Para su Creacion, se necesito utilizar la programación orientada a objetos y cr
 
 
 
-## Licence
-Apache 2.0 copyright © [2023] All rights reserved **[Eduard Sepulveda]**
-
-
-
